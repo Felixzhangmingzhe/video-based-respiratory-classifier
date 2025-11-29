@@ -66,8 +66,6 @@ The same core pipeline (annotation → signal extraction → windowing → FFT �
 ```text
 .
 ├── README.md
-├── LICENSE
-├── .gitignore
 ├── requirements.txt          # Python dependencies
 ├── configs/                  # Experiment configuration files
 │   ├── csc494_video1.yaml
